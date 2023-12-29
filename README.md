@@ -1,1 +1,1 @@
-# Dino-AI
+# Snake AI
